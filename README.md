@@ -5,5 +5,6 @@
 two aisles airplane boarding model
 <img width="636" alt="302443dcc5586ed47bc3ba740db804a" src="https://user-images.githubusercontent.com/115446996/194825261-bd9700a0-b552-4ab8-80f3-fadf6f52d972.png">
 one aisle airplane boarding model
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92247623/194842797-f81d7c10-a157-4388-a0c1-25e15d616592.gif)
 
 By clicking "setup" to reset the model to original state. 
