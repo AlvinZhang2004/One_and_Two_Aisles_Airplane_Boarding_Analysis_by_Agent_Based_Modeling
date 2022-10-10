@@ -77,4 +77,4 @@ In the by seat model, passengers have divided into four groups: the first boardi
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/92247623/194857784-72e9a222-e2d5-4a99-ba9d-900169add06a.gif)
 
 
-
+ 
