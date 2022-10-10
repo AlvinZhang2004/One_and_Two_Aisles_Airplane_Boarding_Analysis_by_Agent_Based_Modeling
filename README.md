@@ -90,3 +90,13 @@ Passengers sit from back to front and from window to the middle at the same time
 
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/92247623/194860347-76062226-0bf7-4d5f-98db-4bfeea7dfe47.gif)
 
+References
+
+Giitsidis, T., & Sirakoulis, G. C. (2016). Modeling passengers boarding in aircraft 
+using cellular automata. IEEE/CAA Journal of Automatica Sinica, 3(4), 365–
+384. https://doi.org/10.1109/jas.2016.7510076 
+
+Mansurova, D. (2016, January 15). Aircraft Boarding Methods. Aircraft boarding 
+methods - Simulace.info. Retrieved June 23, 2022, from 
+http://www.simulace.info/index.php?title=Aircraft_boarding_methods&action=
+edit&redlink=1
