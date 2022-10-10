@@ -68,13 +68,23 @@ Similar to the previous random model, passengers are assigned seats randomly. Ho
 
 - By Seat Model
 
-
+In the by seat model, passengers have divided into four groups: the first boarding group is passengers with seats in rows A and G, the second boarding group are passengers with seats in rows B and F, the third boarding group is passengers with seats in row D, and the last boarding group is passengers with seats in rows C and E.
 
 - By Section Model
 
-In the by seat model, passengers have divided into four groups: the first boarding group is passengers with seats in rows A and G, the second boarding group are passengers with seats in rows B and F, the third boarding group is passengers with seats in row D, and the last boarding group is passengers with seats in rows C and E.
+In the by section model, passengers have divided into five groups: the first boarding group is passengers with seats in columns ranging from 25 to 30, the second boarding group is passengers with seats in columns ranging from 19 to 24, the third boarding group is passengers with seats in columns range from 13 to 18, the fourth boarding group is passengers with seats in columns range from 7 to 12, and the last boarding group is passengers with seats in columns range from 1 to 6. 
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/92247623/194857784-72e9a222-e2d5-4a99-ba9d-900169add06a.gif)
 
+ - Steffen Model
 
- 
+The mechanism of the Steffen model is as same as the previous model. People will seat one row apart from each other the first time and then seat the empty seats between them. 
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/92247623/194860588-c069b8a5-992c-4365-8201-1a4453925ab5.gif)
+
+- Outside-in Model
+
+Passengers sit from back to front and from window to the middle at the same time. 
+
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/92247623/194860347-76062226-0bf7-4d5f-98db-4bfeea7dfe47.gif)
+
