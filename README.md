@@ -22,10 +22,10 @@ The by seat model allows passengers with seat row numbers A and F to board first
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/92247623/194857541-0f7ccbb0-cb24-488e-9d2e-715a1e3c3b15.gif)
 
 
-- Back to Front Model
+- By Section Model
 
-The back to front model allows passengers to board in five groups, with seat column numbers 25-30 board first, then 19-24, 13-18, 7-12, and finally 1-6.
-The back to front method does not control the passengers’ row number (A to F), and passengers are randomly assigned with their exact column number within the range of the group.
+The by section model allows passengers to board in five groups, with seat column numbers 25-30 board first, then 19-24, 13-18, 7-12, and finally 1-6.
+The by section method does not control the passengers’ row number (A to F), and passengers are randomly assigned with their exact column number within the range of the group.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92247623/194842797-f81d7c10-a157-4388-a0c1-25e15d616592.gif)
 
@@ -62,15 +62,19 @@ Boarding methods of two aisles airplane boarding model:
 
 - Random Model
 
-
 Similar to the previous random model, passengers are assigned seats randomly. However, the distinction is that in this model, passengers with seats in the upper rows (A, B, and C) will go to the upper axle, while passengers with seats in the lower rows (E, F, G) will go to the lower axle, as stated in the update assumptions part. Therefore, passengers will not need to cross from one axle to the other.
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/92247623/194858329-6c395c99-063b-4261-a3fc-5b7409af36fa.gif)
 
-- Back to Front Model
+- By Seat Model
+
+
+
+- By Section Model
 
 In the by seat model, passengers have divided into four groups: the first boarding group is passengers with seats in rows A and G, the second boarding group are passengers with seats in rows B and F, the third boarding group is passengers with seats in row D, and the last boarding group is passengers with seats in rows C and E.
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/92247623/194857784-72e9a222-e2d5-4a99-ba9d-900169add06a.gif)
+
 
 
