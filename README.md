@@ -70,6 +70,8 @@ Similar to the previous random model, passengers are assigned seats randomly. Ho
 
 In the by seat model, passengers have divided into four groups: the first boarding group is passengers with seats in rows A and G, the second boarding group are passengers with seats in rows B and F, the third boarding group is passengers with seats in row D, and the last boarding group is passengers with seats in rows C and E.
 
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/92247623/194861438-748b4a64-66ae-4326-8c27-179a55afa8d3.gif)
+
 - By Section Model
 
 In the by section model, passengers have divided into five groups: the first boarding group is passengers with seats in columns ranging from 25 to 30, the second boarding group is passengers with seats in columns ranging from 19 to 24, the third boarding group is passengers with seats in columns range from 13 to 18, the fourth boarding group is passengers with seats in columns range from 7 to 12, and the last boarding group is passengers with seats in columns range from 1 to 6. 
